@@ -16,3 +16,8 @@ To run this project, you need to have the following installed:
 - Python 3.x
 - Jupyter Notebook
 - Required Python libraries (listed in `requirements.txt`)
+
+Install the required libraries using pip:
+
+```sh
+pip install -r requirements.txt
